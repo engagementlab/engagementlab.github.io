@@ -1,2 +1,2 @@
-# engagementlab.github.io
-Engagement Lab developer documentation.
+# Engagement Lab developer documentation.
+See [engagementlab.github.io](https://engagementlab.github.io).
