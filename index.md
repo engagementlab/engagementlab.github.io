@@ -7,6 +7,8 @@
 [![Angular logo](https://res.cloudinary.com/engagement-lab-home/image/upload/f_auto,c_scale,w_100//logos/angular.png "Angular logo")](https://angular.io/)
 [![Node logo](https://res.cloudinary.com/engagement-lab-home/image/upload/f_auto,c_scale,w_100//logos/node-sm.png "Node logo")](https://nodejs.org/)
 
+###Note
+_10/2019_: The Lab is currently in the process of containerising our web apps via Docker as time allows. If you would like to lend a hand, please submit a PR on any repo.
 
 ## Getting Started
 
